@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kurs Sitesi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Kurs Sitesi</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Dersler</h2>
+            <ul>
+                <li><a href="#">Ders 1</a></li>
+                <li><a href="#">Ders 2</a></li>
+                <li><a href="#">Ders 3</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Hakkımızda</h2>
+            <p>Kurs sitemiz, ...</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Kurs Sitesi</p>
+    </footer>
+</body>
+</html>
